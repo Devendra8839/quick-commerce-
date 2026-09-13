@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order: one
+  status: MyString
+  shipped_at: 2026-09-02 19:24:59
+  delivered_at: 2026-09-02 19:24:59
+
+two:
+  order: two
+  status: MyString
+  shipped_at: 2026-09-02 19:24:59
+  delivered_at: 2026-09-02 19:24:59
